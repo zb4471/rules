@@ -6,9 +6,11 @@ DOMAIN,ai.google.dev
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,api.github.com
 DOMAIN,api.jetbrains.ai
+# 上传附件，原始的
 DOMAIN,file.oaiusercontent.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN,jules.google.com
+# 上传附件，新增的
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,aistudio.google.com
